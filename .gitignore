@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python-generated files
+**/.DS_Store/
+**/cache/
+*.egg-info
+*.py[oc]
+.DS_Store
+.cache/
+.coverage
+.ipynb_checkpoints/
+.jupyter_cache/
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+_build/
+build/
+dist/
+init.just
+site/
+wheels/
+
+# Virtual environments
+.venv
