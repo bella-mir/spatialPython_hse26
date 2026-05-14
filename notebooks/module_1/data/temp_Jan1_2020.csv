@@ -1,0 +1,291 @@
+Region,Country,State,City,Month,Day,Year,AvgTemperature
+Africa,Algeria,,Algiers,1,1,2020,46.3
+Africa,Benin,,Cotonou,1,1,2020,81.8
+Africa,Central African Republic,,Bangui,1,1,2020,80.9
+Africa,Congo,,Brazzaville,1,1,2020,77.2
+Africa,Egypt,,Cairo,1,1,2020,57.1
+Africa,Ethiopia,,Addis Ababa,1,1,2020,61.9
+Africa,Gabon,,Libreville,1,1,2020,83.9
+Africa,Gambia,,Banjul,1,1,2020,76.9
+Africa,Guinea,,Conakry,1,1,2020,83.5
+Africa,Guinea-Bissau,,Bissau,1,1,2020,79.7
+Africa,Ivory Coast,,Abidjan,1,1,2020,81.9
+Africa,Kenya,,Nairobi,1,1,2020,68.5
+Africa,Morocco,,Rabat,1,1,2020,51.0
+Africa,Madagascar,,Antananarivo,1,1,2020,69.8
+Africa,Mozambique,,Maputo,1,1,2020,80.5
+Africa,Namibia,,Windhoek,1,1,2020,76.0
+Africa,Nigeria,,Niamey,1,1,2020,73.2
+Africa,Nigeria,,Lagos,1,1,2020,79.6
+Africa,Senegal,,Dakar,1,1,2020,76.4
+Africa,South Africa,,Capetown,1,1,2020,70.0
+Africa,Togo,,Lome,1,1,2020,80.9
+Africa,Tunisia,,Tunis,1,1,2020,51.0
+Africa,Tanzania,,Dar Es Salaam,1,1,2020,84.5
+Africa,Uganda,,Kampala,1,1,2020,74.8
+Asia,China,,Beijing,1,1,2020,20.3
+Asia,China,,Chengdu,1,1,2020,48.0
+Asia,China,,Guangzhou,1,1,2020,63.0
+Asia,China,,Shanghai,1,1,2020,47.3
+Asia,China,,Shenyang,1,1,2020,6.6
+Asia,Hong Kong,,Hong Kong,1,1,2020,65.7
+Asia,India,,Bombay (Mumbai),1,1,2020,74.0
+Asia,India,,Calcutta,1,1,2020,64.5
+Asia,India,,Chennai (Madras),1,1,2020,78.2
+Asia,India,,Delhi,1,1,2020,51.5
+Asia,Indonesia,,Jakarta,1,1,2020,80.0
+Asia,Japan,,Osaka,1,1,2020,44.6
+Asia,Japan,,Sapporo,1,1,2020,21.9
+Asia,Japan,,Tokyo,1,1,2020,44.4
+Asia,Kazakhstan,,Almaty,1,1,2020,29.1
+Asia,Kyrgyzstan,,Bishkek,1,1,2020,33.8
+Asia,Laos,,Vientiane,1,1,2020,79.7
+Asia,Malaysia,,Kuala Lumpur,1,1,2020,84.8
+Asia,Mongolia,,Ulan-bator,1,1,2020,-10.2
+Asia,Myanmar (Burma),,Rangoon,1,1,2020,77.8
+Asia,Nepal,,Katmandu,1,1,2020,48.9
+Asia,North Korea,,Pyongyang,1,1,2020,22.8
+Asia,Pakistan,,Islamabad,1,1,2020,50.1
+Asia,Pakistan,,Karachi,1,1,2020,59.3
+Asia,Philippines,,Manila,1,1,2020,80.2
+Asia,Singapore,,Singapore,1,1,2020,82.4
+Asia,South Korea,,Seoul,1,1,2020,32.0
+Asia,Sri Lanka,,Colombo,1,1,2020,81.0
+Asia,Taiwan,,Taipei,1,1,2020,61.9
+Asia,Tajikistan,,Dusanbe,1,1,2020,41.9
+Asia,Turkmenistan,,Ashabad,1,1,2020,45.2
+Asia,Uzbekistan,,Tashkent,1,1,2020,34.8
+Asia,Vietnam,,Hanoi,1,1,2020,70.5
+Australia/South Pacific,Australia,,Brisbane,1,1,2020,78.1
+Australia/South Pacific,Australia,,Canberra,1,1,2020,68.6
+Australia/South Pacific,Australia,,Melbourne,1,1,2020,71.6
+Australia/South Pacific,Australia,,Perth,1,1,2020,74.3
+Australia/South Pacific,Australia,,Sydney,1,1,2020,65.3
+Australia/South Pacific,New Zealand,,Auckland,1,1,2020,64.8
+Europe,Albania,,Tirana,1,1,2020,40.8
+Europe,Austria,,Vienna,1,1,2020,37.8
+Europe,Belarus,,Minsk,1,1,2020,33.2
+Europe,Belgium,,Brussels,1,1,2020,35.4
+Europe,Bulgaria,,Sofia,1,1,2020,32.6
+Europe,Croatia,,Zagreb,1,1,2020,33.2
+Europe,Czech Republic,,Prague,1,1,2020,31.7
+Europe,Denmark,,Copenhagen,1,1,2020,38.2
+Europe,Finland,,Helsinki,1,1,2020,34.2
+Europe,France,,Paris,1,1,2020,35.9
+Europe,France,,Bordeaux,1,1,2020,49.8
+Europe,Germany,,Munich,1,1,2020,32.8
+Europe,Hungary,,Budapest,1,1,2020,31.7
+Europe,Iceland,,Reykjavik,1,1,2020,35.8
+Europe,Ireland,,Dublin,1,1,2020,40.0
+Europe,Italy,,Milan,1,1,2020,35.9
+Europe,Italy,,Rome,1,1,2020,41.7
+Europe,Latvia,,Riga,1,1,2020,37.3
+Europe,Macedonia,,Skopje,1,1,2020,36.8
+Europe,The Netherlands,,Amsterdam,1,1,2020,35.5
+Europe,Norway,,Oslo,1,1,2020,35.6
+Europe,Poland,,Warsaw,1,1,2020,34.6
+Europe,Portugal,,Lisbon,1,1,2020,46.3
+Europe,Romania,,Bucharest,1,1,2020,35.6
+Europe,Russia,,Moscow,1,1,2020,29.2
+Europe,Slovakia,,Bratislava,1,1,2020,37.4
+Europe,Spain,,Barcelona,1,1,2020,46.3
+Europe,Spain,,Bilbao,1,1,2020,45.2
+Europe,Spain,,Madrid,1,1,2020,37.9
+Europe,Sweden,,Stockholm,1,1,2020,39.3
+Europe,Switzerland,,Bern,1,1,2020,28.6
+Europe,Switzerland,,Geneva,1,1,2020,35.0
+Europe,Switzerland,,Zurich,1,1,2020,28.7
+Europe,Ukraine,,Kiev,1,1,2020,33.1
+Europe,United Kingdom,,Belfast,1,1,2020,43.3
+Europe,United Kingdom,,London,1,1,2020,41.5
+Europe,Yugoslavia,,Belgrade,1,1,2020,32.5
+Middle East,Bahrain,,Manama,1,1,2020,69.4
+Middle East,Jordan,,Amman,1,1,2020,46.8
+Middle East,Kuwait,,Kuwait,1,1,2020,57.1
+Middle East,Lebanon,,Beirut,1,1,2020,57.0
+Middle East,Qatar,,Doha,1,1,2020,70.4
+Middle East,Saudi Arabia,,Dhahran,1,1,2020,65.2
+Middle East,Saudi Arabia,,Riyadh,1,1,2020,60.0
+Middle East,Syria,,Damascus,1,1,2020,43.8
+Middle East,Turkey,,Ankara,1,1,2020,36.1
+Middle East,Turkey,,Istanbul,1,1,2020,43.0
+Middle East,United Arab Emirates,,Abu Dhabi,1,1,2020,68.9
+Middle East,United Arab Emirates,,Dubai,1,1,2020,71.1
+North America,Canada,,Quebec,1,1,2020,26.5
+North America,Canada,,Regina,1,1,2020,25.3
+North America,Mexico,,Guadalajara,1,1,2020,64.1
+North America,Mexico,,Mexico City,1,1,2020,64.2
+North America,Mexico,,Monterrey,1,1,2020,54.4
+South/Central America & Carribean,Argentina,,Buenos Aires,1,1,2020,72.5
+South/Central America & Carribean,Bahamas,,Nassau,1,1,2020,74.4
+South/Central America & Carribean,Belize,,Belize City,1,1,2020,77.0
+South/Central America & Carribean,Bolivia,,La Paz,1,1,2020,47.4
+South/Central America & Carribean,Brazil,,Brasilia,1,1,2020,73.7
+South/Central America & Carribean,Brazil,,Rio de Janeiro,1,1,2020,83.3
+South/Central America & Carribean,Brazil,,Sao Paulo,1,1,2020,79.0
+South/Central America & Carribean,Colombia,,Bogota,1,1,2020,56.8
+South/Central America & Carribean,Costa Rica,,San Jose,1,1,2020,73.4
+South/Central America & Carribean,Cuba,,Havana,1,1,2020,73.0
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,1,1,2020,80.1
+South/Central America & Carribean,Equador,,Guayaquil,1,1,2020,81.1
+South/Central America & Carribean,Guatemala,,Guatemala City,1,1,2020,66.8
+South/Central America & Carribean,Haiti,,Port au Prince,1,1,2020,82.7
+South/Central America & Carribean,Honduras,,Tegucigalpa,1,1,2020,65.8
+South/Central America & Carribean,Nicaragua,,Managua,1,1,2020,80.0
+South/Central America & Carribean,Panama,,Panama City,1,1,2020,78.7
+South/Central America & Carribean,Suriname,,Paramaribo,1,1,2020,78.0
+South/Central America & Carribean,Uruguay,,Montvideo,1,1,2020,70.2
+South/Central America & Carribean,Venezuela,,Caracas,1,1,2020,78.2
+North America,US,Alabama,Birmingham,1,1,2020,44.4
+North America,US,Alabama,Huntsville,1,1,2020,40.8
+North America,US,Alabama,Mobile,1,1,2020,45.8
+North America,US,Alabama,Montgomery,1,1,2020,44.7
+North America,US,Alaska,Anchorage,1,1,2020,23.5
+North America,US,Alaska,Fairbanks,1,1,2020,-0.9
+North America,US,Alaska,Juneau,1,1,2020,40.3
+North America,US,Arizona,Phoenix,1,1,2020,50.4
+North America,US,Arizona,Tucson,1,1,2020,46.6
+North America,US,Arkansas,Fort Smith,1,1,2020,37.4
+North America,US,Arkansas,Little Rock,1,1,2020,39.9
+North America,US,California,Fresno,1,1,2020,47.9
+North America,US,California,Los Angeles,1,1,2020,60.6
+North America,US,California,Sacramento,1,1,2020,47.9
+North America,US,California,San Diego,1,1,2020,57.2
+North America,US,California,San Francisco,1,1,2020,53.0
+North America,US,Colorado,Colorado Springs,1,1,2020,37.9
+North America,US,Colorado,Denver,1,1,2020,37.0
+North America,US,Colorado,Grand Junction,1,1,2020,19.1
+North America,US,Colorado,Pueblo,1,1,2020,38.6
+North America,US,Connecticut,Bridgeport,1,1,2020,39.6
+North America,US,Connecticut,Hartford Springfield,1,1,2020,35.4
+North America,US,District of Columbia,Washington,1,1,2020,45.9
+North America,US,District of Columbia,Washington,1,1,2020,45.9
+North America,US,Maryland,Washington DC,1,1,2020,45.9
+North America,US,Maryland,Washington DC,1,1,2020,45.9
+North America,US,Florida,Jacksonville,1,1,2020,50.5
+North America,US,Florida,Miami Beach,1,1,2020,70.2
+North America,US,Florida,Orlando,1,1,2020,60.2
+North America,US,Florida,Tallahassee,1,1,2020,46.9
+North America,US,Florida,Tampa St. Petersburg,1,1,2020,62.4
+North America,US,Florida,West Palm Beach,1,1,2020,66.7
+North America,US,Georgia,Atlanta,1,1,2020,44.8
+North America,US,Georgia,Columbus,1,1,2020,46.2
+North America,US,Georgia,Macon,1,1,2020,46.9
+North America,US,Georgia,Savannah,1,1,2020,50.8
+North America,US,Hawaii,Honolulu,1,1,2020,76.0
+North America,US,Idaho,Boise,1,1,2020,40.2
+North America,US,Idaho,Pocatello,1,1,2020,33.0
+North America,US,Illinois,Chicago,1,1,2020,28.3
+North America,US,Illinois,Peoria,1,1,2020,32.8
+North America,US,Illinois,Rockford,1,1,2020,25.9
+North America,US,Illinois,Springfield,1,1,2020,35.9
+North America,US,Indiana,Evansville,1,1,2020,40.0
+North America,US,Indiana,Fort Wayne,1,1,2020,31.9
+North America,US,Indiana,Indianapolis,1,1,2020,36.7
+North America,US,Indiana,South Bend,1,1,2020,29.5
+North America,US,Iowa,Des Moines,1,1,2020,31.1
+North America,US,Iowa,Sioux City,1,1,2020,29.2
+North America,US,Kansas,Goodland,1,1,2020,34.1
+North America,US,Kansas,Topeka,1,1,2020,38.0
+North America,US,Kansas,Wichita,1,1,2020,37.5
+North America,US,Kentucky,Lexington,1,1,2020,41.7
+North America,US,Kentucky,Louisville,1,1,2020,41.6
+North America,US,Kentucky,Paducah,1,1,2020,40.8
+North America,US,Louisiana,Lake Charles,1,1,2020,52.7
+North America,US,Louisiana,New Orleans,1,1,2020,55.5
+North America,US,Louisiana,Shreveport,1,1,2020,42.5
+North America,US,Maine,Caribou,1,1,2020,26.6
+North America,US,Maine,Portland,1,1,2020,34.9
+North America,US,Maryland,Baltimore,1,1,2020,44.6
+North America,US,Massachusetts,Boston,1,1,2020,39.4
+North America,US,Michigan,Detroit,1,1,2020,30.0
+North America,US,Michigan,Flint,1,1,2020,30.2
+North America,US,Michigan,Grand Rapids,1,1,2020,28.6
+North America,US,Michigan,Lansing,1,1,2020,28.6
+North America,US,Michigan,Sault Ste Marie,1,1,2020,27.4
+North America,US,Minnesota,Duluth,1,1,2020,14.5
+North America,US,Minnesota,Minneapolis St. Paul,1,1,2020,20.5
+North America,US,Mississippi,Jackson,1,1,2020,42.4
+North America,US,Mississippi,Tupelo,1,1,2020,43.6
+North America,US,Missouri,Kansas City,1,1,2020,37.5
+North America,US,Missouri,Springfield,1,1,2020,38.1
+North America,US,Missouri,St Louis,1,1,2020,41.6
+North America,US,Montana,Billings,1,1,2020,40.4
+North America,US,Montana,Great Falls,1,1,2020,42.2
+North America,US,Montana,Helena,1,1,2020,37.3
+North America,US,Nebraska,Lincoln,1,1,2020,31.7
+North America,US,Nebraska,North Platte,1,1,2020,22.5
+North America,US,Nebraska,Omaha,1,1,2020,31.1
+North America,US,Nevada,Reno,1,1,2020,42.3
+North America,US,Nevada,Las Vegas,1,1,2020,44.5
+North America,US,New Hampshire,Concord,1,1,2020,32.7
+North America,US,New Jersey,Atlantic City,1,1,2020,41.1
+North America,US,New Jersey,Newark,1,1,2020,39.6
+North America,US,New Mexico,Albuquerque,1,1,2020,32.8
+North America,US,New York,Albany,1,1,2020,36.0
+North America,US,New York,Buffalo,1,1,2020,31.2
+North America,US,New York,New York City,1,1,2020,39.8
+North America,US,New York,Rochester,1,1,2020,31.0
+North America,US,New York,Syracuse,1,1,2020,32.9
+North America,US,North Carolina,Asheville,1,1,2020,41.1
+North America,US,North Carolina,Charlotte,1,1,2020,44.9
+North America,US,North Carolina,Greensboro,1,1,2020,43.0
+North America,US,North Carolina,Raleigh Durham,1,1,2020,45.4
+North America,US,North Dakota,Bismarck,1,1,2020,29.8
+North America,US,North Dakota,Fargo,1,1,2020,17.8
+North America,US,Ohio,Akron Canton,1,1,2020,30.4
+North America,US,Ohio,Cincinnati,1,1,2020,37.9
+North America,US,Ohio,Cleveland,1,1,2020,31.6
+North America,US,Ohio,Columbus,1,1,2020,35.5
+North America,US,Ohio,Dayton,1,1,2020,36.8
+North America,US,Ohio,Toledo,1,1,2020,31.5
+North America,US,Ohio,Youngstown,1,1,2020,29.7
+North America,US,Oklahoma,Oklahoma City,1,1,2020,40.2
+North America,US,Oklahoma,Tulsa,1,1,2020,43.7
+North America,US,Oregon,Eugene,1,1,2020,51.2
+North America,US,Oregon,Medford,1,1,2020,43.5
+North America,US,Oregon,Portland,1,1,2020,51.5
+North America,US,Oregon,Salem,1,1,2020,50.5
+North America,US,Pennsylvania,Allentown,1,1,2020,37.8
+North America,US,Pennsylvania,Erie,1,1,2020,30.5
+North America,US,Pennsylvania,Philadelphia,1,1,2020,40.7
+North America,US,Pennsylvania,Pittsburgh,1,1,2020,31.9
+North America,US,Pennsylvania,Wilkes Barre,1,1,2020,33.5
+North America,US,Rhode Island,Rhode Island,1,1,2020,37.9
+North America,US,South Carolina,Charleston,1,1,2020,51.5
+North America,US,South Carolina,Columbia,1,1,2020,47.7
+North America,US,South Dakota,Rapid City,1,1,2020,33.7
+North America,US,South Dakota,Sioux Falls,1,1,2020,24.8
+North America,US,Tennessee,Chattanooga,1,1,2020,43.0
+North America,US,Tennessee,Knoxville,1,1,2020,40.9
+North America,US,Tennessee,Memphis,1,1,2020,43.1
+North America,US,Tennessee,Nashville,1,1,2020,42.3
+North America,US,Texas,Abilene,1,1,2020,48.0
+North America,US,Texas,Amarillo,1,1,2020,40.6
+North America,US,Texas,Austin,1,1,2020,53.6
+North America,US,Texas,Brownsville,1,1,2020,64.4
+North America,US,Texas,Corpus Christi,1,1,2020,58.0
+North America,US,Texas,Dallas Ft Worth,1,1,2020,47.3
+North America,US,Texas,El Paso,1,1,2020,43.5
+North America,US,Texas,Houston,1,1,2020,51.9
+North America,US,Texas,Lubbock,1,1,2020,43.5
+North America,US,Texas,Midland Odessa,1,1,2020,42.7
+North America,US,Texas,San Angelo,1,1,2020,49.3
+North America,US,Texas,San Antonio,1,1,2020,52.5
+North America,US,Texas,Waco,1,1,2020,48.9
+North America,US,Texas,Wichita Falls,1,1,2020,43.5
+North America,US,Utah,Salt Lake City,1,1,2020,32.2
+North America,US,Vermont,Burlington,1,1,2020,33.8
+North America,US,Virginia,Norfolk,1,1,2020,48.2
+North America,US,Virginia,Richmond,1,1,2020,44.7
+North America,US,Virginia,Roanoke,1,1,2020,44.3
+North America,US,Washington,Seattle,1,1,2020,51.0
+North America,US,Washington,Spokane,1,1,2020,40.6
+North America,US,Washington,Yakima,1,1,2020,46.9
+North America,US,West Virginia,Charleston,1,1,2020,40.6
+North America,US,West Virginia,Elkins,1,1,2020,34.6
+North America,US,Wisconsin,Green Bay,1,1,2020,21.3
+North America,US,Wisconsin,Madison,1,1,2020,24.2
+North America,US,Wisconsin,Milwaukee,1,1,2020,25.3
+North America,US,Wyoming,Casper,1,1,2020,28.6
+North America,US,Wyoming,Cheyenne,1,1,2020,35.8

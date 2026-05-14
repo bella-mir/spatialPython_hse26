@@ -1,0 +1,326 @@
+Region,Country,State,City,Month,Day,Year,AvgTemperature
+Africa,Algeria,,Algiers,1,1,1997,57.7
+Africa,Burundi,,Bujumbura,1,1,1997,-99.0
+Africa,Benin,,Cotonou,1,1,1997,81.3
+Africa,Central African Republic,,Bangui,1,1,1997,80.7
+Africa,Congo,,Brazzaville,1,1,1997,76.1
+Africa,Egypt,,Cairo,1,1,1997,58.5
+Africa,Ethiopia,,Addis Ababa,1,1,1997,-99.0
+Africa,Gabon,,Libreville,1,1,1997,81.0
+Africa,Gambia,,Banjul,1,1,1997,71.9
+Africa,Guinea,,Conakry,1,1,1997,81.8
+Africa,Guinea-Bissau,,Bissau,1,1,1997,-99.0
+Africa,Ivory Coast,,Abidjan,1,1,1997,79.8
+Africa,Kenya,,Nairobi,1,1,1997,67.1
+Africa,Morocco,,Rabat,1,1,1997,54.9
+Africa,Madagascar,,Antananarivo,1,1,1997,71.7
+Africa,Mauritania,,Nouakchott,1,1,1997,-99.0
+Africa,Malawi,,Lilongwe,1,1,1997,68.0
+Africa,Mozambique,,Maputo,1,1,1997,82.2
+Africa,Namibia,,Windhoek,1,1,1997,73.6
+Africa,Nigeria,,Niamey,1,1,1997,78.9
+Africa,Senegal,,Dakar,1,1,1997,70.4
+Africa,Sierra Leone,,Freetown,1,1,1997,-99.0
+Africa,South Africa,,Capetown,1,1,1997,66.0
+Africa,Togo,,Lome,1,1,1997,81.6
+Africa,Tunisia,,Tunis,1,1,1997,58.4
+Africa,Tanzania,,Dar Es Salaam,1,1,1997,83.4
+Africa,Uganda,,Kampala,1,1,1997,-99.0
+Africa,Zambia,,Lusaka,1,1,1997,74.3
+Asia,Bangladesh,,Dhaka,1,1,1997,66.2
+Asia,China,,Beijing,1,1,1997,17.3
+Asia,China,,Chengdu,1,1,1997,45.2
+Asia,China,,Guangzhou,1,1,1997,69.2
+Asia,China,,Shanghai,1,1,1997,37.8
+Asia,China,,Shenyang,1,1,1997,2.0
+Asia,Hong Kong,,Hong Kong,1,1,1997,70.0
+Asia,India,,Bombay (Mumbai),1,1,1997,77.2
+Asia,India,,Calcutta,1,1,1997,63.0
+Asia,India,,Chennai (Madras),1,1,1997,76.4
+Asia,India,,Delhi,1,1,1997,54.7
+Asia,Indonesia,,Jakarta,1,1,1997,-99.0
+Asia,Japan,,Osaka,1,1,1997,54.7
+Asia,Japan,,Sapporo,1,1,1997,27.5
+Asia,Japan,,Tokyo,1,1,1997,56.7
+Asia,Kazakhstan,,Almaty,1,1,1997,38.4
+Asia,Laos,,Vientiane,1,1,1997,70.6
+Asia,Malaysia,,Kuala Lumpur,1,1,1997,80.2
+Asia,Mongolia,,Ulan-bator,1,1,1997,-13.5
+Asia,Myanmar (Burma),,Rangoon,1,1,1997,73.8
+Asia,Nepal,,Katmandu,1,1,1997,-99.0
+Asia,North Korea,,Pyongyang,1,1,1997,14.2
+Asia,Pakistan,,Islamabad,1,1,1997,49.0
+Asia,Pakistan,,Karachi,1,1,1997,64.6
+Asia,Philippines,,Manila,1,1,1997,75.3
+Asia,Singapore,,Singapore,1,1,1997,80.5
+Asia,South Korea,,Seoul,1,1,1997,22.3
+Asia,Sri Lanka,,Colombo,1,1,1997,82.5
+Asia,Taiwan,,Taipei,1,1,1997,66.2
+Asia,Tajikistan,,Dusanbe,1,1,1997,52.6
+Asia,Thailand,,Bangkok,1,1,1997,82.0
+Asia,Turkmenistan,,Ashabad,1,1,1997,44.8
+Asia,Uzbekistan,,Tashkent,1,1,1997,47.0
+Asia,Vietnam,,Hanoi,1,1,1997,69.4
+Australia/South Pacific,Australia,,Brisbane,1,1,1997,74.6
+Australia/South Pacific,Australia,,Canberra,1,1,1997,58.1
+Australia/South Pacific,Australia,,Melbourne,1,1,1997,64.9
+Australia/South Pacific,Australia,,Perth,1,1,1997,94.3
+Australia/South Pacific,Australia,,Sydney,1,1,1997,59.3
+Australia/South Pacific,New Zealand,,Auckland,1,1,1997,70.6
+Europe,Albania,,Tirana,1,1,1997,-99.0
+Europe,Austria,,Vienna,1,1,1997,15.8
+Europe,Belarus,,Minsk,1,1,1997,-4.0
+Europe,Belgium,,Brussels,1,1,1997,8.8
+Europe,Bulgaria,,Sofia,1,1,1997,30.9
+Europe,Croatia,,Zagreb,1,1,1997,16.7
+Europe,Cyprus,,Nicosia,1,1,1997,50.9
+Europe,Czech Republic,,Prague,1,1,1997,8.3
+Europe,Denmark,,Copenhagen,1,1,1997,13.5
+Europe,Finland,,Helsinki,1,1,1997,19.8
+Europe,France,,Paris,1,1,1997,13.8
+Europe,France,,Bordeaux,1,1,1997,24.2
+Europe,Germany,,Bonn,1,1,1997,-99.0
+Europe,Germany,,Frankfurt,1,1,1997,-99.0
+Europe,Germany,,Hamburg,1,1,1997,-99.0
+Europe,Germany,,Munich,1,1,1997,10.8
+Europe,Georgia,,Tbilisi,1,1,1997,42.3
+Europe,Greece,,Athens,1,1,1997,54.8
+Europe,Hungary,,Budapest,1,1,1997,16.9
+Europe,Iceland,,Reykjavik,1,1,1997,37.5
+Europe,Ireland,,Dublin,1,1,1997,34.6
+Europe,Italy,,Milan,1,1,1997,25.9
+Europe,Italy,,Rome,1,1,1997,53.6
+Europe,Latvia,,Riga,1,1,1997,17.2
+Europe,Macedonia,,Skopje,1,1,1997,37.6
+Europe,The Netherlands,,Amsterdam,1,1,1997,14.8
+Europe,Norway,,Oslo,1,1,1997,1.8
+Europe,Poland,,Warsaw,1,1,1997,1.6
+Europe,Portugal,,Lisbon,1,1,1997,46.8
+Europe,Romania,,Bucharest,1,1,1997,22.2
+Europe,Russia,,Moscow,1,1,1997,-4.2
+Europe,Russia,,Yerevan,1,1,1997,38.9
+Europe,Serbia-Montenegro,,Pristina,1,1,1997,32.7
+Europe,Slovakia,,Bratislava,1,1,1997,16.9
+Europe,Spain,,Barcelona,1,1,1997,46.1
+Europe,Spain,,Bilbao,1,1,1997,39.7
+Europe,Spain,,Madrid,1,1,1997,38.6
+Europe,Sweden,,Stockholm,1,1,1997,17.8
+Europe,Switzerland,,Bern,1,1,1997,20.5
+Europe,Switzerland,,Geneva,1,1,1997,26.4
+Europe,Switzerland,,Zurich,1,1,1997,14.2
+Europe,Ukraine,,Kiev,1,1,1997,4.7
+Europe,United Kingdom,,Belfast,1,1,1997,39.3
+Europe,United Kingdom,,London,1,1,1997,27.0
+Europe,Yugoslavia,,Belgrade,1,1,1997,22.2
+Middle East,Bahrain,,Manama,1,1,1997,66.2
+Middle East,Israel,,Tel Aviv,1,1,1997,57.9
+Middle East,Jordan,,Amman,1,1,1997,51.5
+Middle East,Kuwait,,Kuwait,1,1,1997,58.9
+Middle East,Lebanon,,Beirut,1,1,1997,61.2
+Middle East,Oman,,Muscat,1,1,1997,-99.0
+Middle East,Qatar,,Doha,1,1,1997,67.4
+Middle East,Saudi Arabia,,Dhahran,1,1,1997,64.7
+Middle East,Saudi Arabia,,Riyadh,1,1,1997,62.4
+Middle East,Syria,,Damascus,1,1,1997,46.1
+Middle East,Turkey,,Ankara,1,1,1997,39.0
+Middle East,Turkey,,Istanbul,1,1,1997,47.9
+Middle East,United Arab Emirates,,Abu Dhabi,1,1,1997,67.8
+Middle East,United Arab Emirates,,Dubai,1,1,1997,67.7
+North America,Canada,,Calgary,1,1,1997,11.4
+North America,Canada,,Edmonton,1,1,1997,-5.2
+North America,Canada,,Halifax,1,1,1997,6.3
+North America,Canada,,Montreal,1,1,1997,1.0
+North America,Canada,,Ottawa,1,1,1997,-4.0
+North America,Canada,,Quebec,1,1,1997,-10.4
+North America,Canada,,Regina,1,1,1997,11.8
+North America,Canada,,Toronto,1,1,1997,13.4
+North America,Canada,,Vancouver,1,1,1997,45.8
+North America,Canada,,Winnipeg,1,1,1997,10.7
+North America,Mexico,,Guadalajara,1,1,1997,-99.0
+North America,Mexico,,Mexico City,1,1,1997,55.8
+North America,Mexico,,Monterrey,1,1,1997,71.2
+South/Central America & Carribean,Argentina,,Buenos Aires,1,1,1997,70.4
+South/Central America & Carribean,Bahamas,,Nassau,1,1,1997,70.7
+South/Central America & Carribean,Bermuda,,Hamilton,1,1,1997,65.8
+South/Central America & Carribean,Belize,,Belize City,1,1,1997,77.2
+South/Central America & Carribean,Bolivia,,La Paz,1,1,1997,47.0
+South/Central America & Carribean,Barbados,,Bridgetown,1,1,1997,79.3
+South/Central America & Carribean,Brazil,,Brasilia,1,1,1997,70.1
+South/Central America & Carribean,Brazil,,Rio de Janeiro,1,1,1997,77.6
+South/Central America & Carribean,Brazil,,Sao Paulo,1,1,1997,71.9
+South/Central America & Carribean,Colombia,,Bogota,1,1,1997,54.5
+South/Central America & Carribean,Costa Rica,,San Jose,1,1,1997,71.6
+South/Central America & Carribean,Cuba,,Havana,1,1,1997,73.4
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,1,1,1997,74.0
+South/Central America & Carribean,Equador,,Guayaquil,1,1,1997,78.3
+South/Central America & Carribean,Equador,,Quito,1,1,1997,55.2
+South/Central America & Carribean,Guatemala,,Guatemala City,1,1,1997,66.3
+South/Central America & Carribean,Guyana,,Georgetown,1,1,1997,-99.0
+South/Central America & Carribean,Haiti,,Port au Prince,1,1,1997,-99.0
+South/Central America & Carribean,Honduras,,Tegucigalpa,1,1,1997,66.6
+South/Central America & Carribean,Nicaragua,,Managua,1,1,1997,80.0
+South/Central America & Carribean,Panama,,Panama City,1,1,1997,77.8
+South/Central America & Carribean,Peru,,Lima,1,1,1997,70.6
+South/Central America & Carribean,Suriname,,Paramaribo,1,1,1997,-99.0
+South/Central America & Carribean,Uruguay,,Montvideo,1,1,1997,68.3
+South/Central America & Carribean,Venezuela,,Caracas,1,1,1997,78.5
+North America,US,Alabama,Birmingham,1,1,1997,60.9
+North America,US,Alabama,Huntsville,1,1,1997,56.3
+North America,US,Alabama,Mobile,1,1,1997,66.8
+North America,US,Alabama,Montgomery,1,1,1997,63.9
+North America,US,Alaska,Anchorage,1,1,1997,-10.0
+North America,US,Alaska,Fairbanks,1,1,1997,-38.7
+North America,US,Alaska,Juneau,1,1,1997,2.3
+North America,US,Arizona,Flagstaff,1,1,1997,39.0
+North America,US,Arizona,Phoenix,1,1,1997,59.4
+North America,US,Arizona,Tucson,1,1,1997,56.0
+North America,US,Arizona,Yuma,1,1,1997,60.0
+North America,US,Arkansas,Fort Smith,1,1,1997,55.0
+North America,US,Arkansas,Little Rock,1,1,1997,55.5
+North America,US,California,Fresno,1,1,1997,60.7
+North America,US,California,Los Angeles,1,1,1997,61.7
+North America,US,California,Sacramento,1,1,1997,63.0
+North America,US,California,San Diego,1,1,1997,61.7
+North America,US,California,San Francisco,1,1,1997,64.3
+North America,US,Colorado,Colorado Springs,1,1,1997,45.2
+North America,US,Colorado,Denver,1,1,1997,48.2
+North America,US,Colorado,Grand Junction,1,1,1997,34.1
+North America,US,Colorado,Pueblo,1,1,1997,39.8
+North America,US,Connecticut,Bridgeport,1,1,1997,14.9
+North America,US,Connecticut,Hartford Springfield,1,1,1997,8.2
+North America,US,Delaware,Wilmington,1,1,1997,24.9
+North America,US,District of Columbia,Washington,1,1,1997,34.8
+North America,US,District of Columbia,Washington,1,1,1997,34.8
+North America,US,Maryland,Washington DC,1,1,1997,34.8
+North America,US,Maryland,Washington DC,1,1,1997,34.8
+North America,US,Florida,Daytona Beach,1,1,1997,65.9
+North America,US,Florida,Jacksonville,1,1,1997,64.9
+North America,US,Florida,Miami Beach,1,1,1997,73.6
+North America,US,Florida,Orlando,1,1,1997,68.8
+North America,US,Florida,Tallahassee,1,1,1997,63.5
+North America,US,Florida,Tampa St. Petersburg,1,1,1997,69.0
+North America,US,Florida,West Palm Beach,1,1,1997,71.0
+North America,US,Georgia,Atlanta,1,1,1997,62.4
+North America,US,Georgia,Columbus,1,1,1997,62.3
+North America,US,Georgia,Macon,1,1,1997,60.4
+North America,US,Georgia,Savannah,1,1,1997,60.6
+North America,US,Hawaii,Honolulu,1,1,1997,71.3
+North America,US,Idaho,Boise,1,1,1997,54.0
+North America,US,Idaho,Pocatello,1,1,1997,50.9
+North America,US,Illinois,Chicago,1,1,1997,35.3
+North America,US,Illinois,Peoria,1,1,1997,36.6
+North America,US,Illinois,Rockford,1,1,1997,31.7
+North America,US,Illinois,Springfield,1,1,1997,37.6
+North America,US,Indiana,Evansville,1,1,1997,45.6
+North America,US,Indiana,Fort Wayne,1,1,1997,34.7
+North America,US,Indiana,Indianapolis,1,1,1997,41.4
+North America,US,Indiana,South Bend,1,1,1997,35.4
+North America,US,Iowa,Des Moines,1,1,1997,33.9
+North America,US,Iowa,Sioux City,1,1,1997,23.3
+North America,US,Kansas,Goodland,1,1,1997,50.7
+North America,US,Kansas,Topeka,1,1,1997,46.1
+North America,US,Kansas,Wichita,1,1,1997,49.6
+North America,US,Kentucky,Lexington,1,1,1997,46.7
+North America,US,Kentucky,Louisville,1,1,1997,48.6
+North America,US,Kentucky,Paducah,1,1,1997,48.9
+North America,US,Louisiana,Baton Rouge,1,1,1997,65.5
+North America,US,Louisiana,Lake Charles,1,1,1997,61.1
+North America,US,Louisiana,New Orleans,1,1,1997,64.8
+North America,US,Louisiana,Shreveport,1,1,1997,61.6
+North America,US,Maine,Caribou,1,1,1997,-1.6
+North America,US,Maine,Portland,1,1,1997,9.1
+North America,US,Maryland,Baltimore,1,1,1997,30.6
+North America,US,Massachusetts,Boston,1,1,1997,10.0
+North America,US,Michigan,Detroit,1,1,1997,29.4
+North America,US,Michigan,Flint,1,1,1997,27.7
+North America,US,Michigan,Grand Rapids,1,1,1997,30.2
+North America,US,Michigan,Lansing,1,1,1997,29.4
+North America,US,Michigan,Sault Ste Marie,1,1,1997,15.0
+North America,US,Minnesota,Duluth,1,1,1997,23.9
+North America,US,Minnesota,Minneapolis St. Paul,1,1,1997,26.2
+North America,US,Mississippi,Jackson,1,1,1997,63.2
+North America,US,Mississippi,Tupelo,1,1,1997,58.2
+North America,US,Missouri,Kansas City,1,1,1997,46.6
+North America,US,Missouri,Springfield,1,1,1997,49.5
+North America,US,Missouri,St Louis,1,1,1997,44.2
+North America,US,Montana,Billings,1,1,1997,45.9
+North America,US,Montana,Great Falls,1,1,1997,46.4
+North America,US,Montana,Helena,1,1,1997,44.0
+North America,US,Nebraska,Lincoln,1,1,1997,36.0
+North America,US,Nebraska,North Platte,1,1,1997,38.6
+North America,US,Nebraska,Omaha,1,1,1997,34.8
+North America,US,Nevada,Reno,1,1,1997,58.3
+North America,US,Nevada,Las Vegas,1,1,1997,49.2
+North America,US,New Hampshire,Concord,1,1,1997,5.1
+North America,US,New Jersey,Atlantic City,1,1,1997,23.3
+North America,US,New Jersey,Newark,1,1,1997,16.3
+North America,US,New Mexico,Albuquerque,1,1,1997,44.6
+North America,US,New York,Albany,1,1,1997,1.4
+North America,US,New York,Buffalo,1,1,1997,14.8
+North America,US,New York,New York City,1,1,1997,17.5
+North America,US,New York,Rochester,1,1,1997,13.1
+North America,US,New York,Syracuse,1,1,1997,5.0
+North America,US,North Carolina,Asheville,1,1,1997,47.8
+North America,US,North Carolina,Charlotte,1,1,1997,52.6
+North America,US,North Carolina,Greensboro,1,1,1997,45.5
+North America,US,North Carolina,Raleigh Durham,1,1,1997,46.1
+North America,US,North Dakota,Bismarck,1,1,1997,24.7
+North America,US,North Dakota,Fargo,1,1,1997,19.7
+North America,US,Ohio,Akron Canton,1,1,1997,29.9
+North America,US,Ohio,Cincinnati,1,1,1997,43.3
+North America,US,Ohio,Cleveland,1,1,1997,30.4
+North America,US,Ohio,Columbus,1,1,1997,38.4
+North America,US,Ohio,Dayton,1,1,1997,38.9
+North America,US,Ohio,Toledo,1,1,1997,31.9
+North America,US,Ohio,Youngstown,1,1,1997,26.9
+North America,US,Oklahoma,Oklahoma City,1,1,1997,58.1
+North America,US,Oklahoma,Tulsa,1,1,1997,57.0
+North America,US,Oregon,Eugene,1,1,1997,54.7
+North America,US,Oregon,Medford,1,1,1997,51.8
+North America,US,Oregon,Portland,1,1,1997,54.0
+North America,US,Oregon,Salem,1,1,1997,55.9
+North America,US,Pennsylvania,Allentown,1,1,1997,17.8
+North America,US,Pennsylvania,Erie,1,1,1997,26.6
+North America,US,Pennsylvania,Harrisburg,1,1,1997,23.4
+North America,US,Pennsylvania,Philadelphia,1,1,1997,23.6
+North America,US,Pennsylvania,Pittsburgh,1,1,1997,31.7
+North America,US,Pennsylvania,Wilkes Barre,1,1,1997,15.9
+North America,US,Rhode Island,Rhode Island,1,1,1997,12.3
+North America,US,South Carolina,Charleston,1,1,1997,58.3
+North America,US,South Carolina,Columbia,1,1,1997,59.1
+North America,US,South Dakota,Rapid City,1,1,1997,40.9
+North America,US,South Dakota,Sioux Falls,1,1,1997,21.2
+North America,US,Tennessee,Chattanooga,1,1,1997,57.6
+North America,US,Tennessee,Knoxville,1,1,1997,52.1
+North America,US,Tennessee,Memphis,1,1,1997,53.8
+North America,US,Tennessee,Nashville,1,1,1997,51.7
+North America,US,Texas,Abilene,1,1,1997,60.9
+North America,US,Texas,Amarillo,1,1,1997,49.0
+North America,US,Texas,Austin,1,1,1997,64.9
+North America,US,Texas,Brownsville,1,1,1997,70.8
+North America,US,Texas,Corpus Christi,1,1,1997,69.2
+North America,US,Texas,Dallas Ft Worth,1,1,1997,58.7
+North America,US,Texas,El Paso,1,1,1997,56.3
+North America,US,Texas,Houston,1,1,1997,62.3
+North America,US,Texas,Lubbock,1,1,1997,48.6
+North America,US,Texas,Midland Odessa,1,1,1997,50.6
+North America,US,Texas,San Angelo,1,1,1997,58.9
+North America,US,Texas,San Antonio,1,1,1997,64.9
+North America,US,Texas,Waco,1,1,1997,57.8
+North America,US,Texas,Wichita Falls,1,1,1997,59.7
+North America,US,Utah,Salt Lake City,1,1,1997,52.7
+North America,US,Vermont,Burlington,1,1,1997,-1.1
+North America,US,Virginia,Norfolk,1,1,1997,40.6
+North America,US,Virginia,Richmond,1,1,1997,37.8
+North America,US,Virginia,Roanoke,1,1,1997,41.7
+North America,US,Washington,Seattle,1,1,1997,51.0
+North America,US,Washington,Spokane,1,1,1997,41.6
+North America,US,Washington,Yakima,1,1,1997,42.1
+North America,US,West Virginia,Charleston,1,1,1997,49.0
+North America,US,West Virginia,Elkins,1,1,1997,42.7
+North America,US,Wisconsin,Green Bay,1,1,1997,30.8
+North America,US,Wisconsin,Madison,1,1,1997,30.4
+North America,US,Wisconsin,Milwaukee,1,1,1997,34.9
+North America,US,Wyoming,Casper,1,1,1997,45.7
+North America,US,Wyoming,Cheyenne,1,1,1997,50.7
+North America,US,Additional Territories,San Juan Puerto Rico,1,1,1997,76.7
