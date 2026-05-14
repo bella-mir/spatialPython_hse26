@@ -5,7 +5,7 @@ on:
     branches: [main]
 
 env:
-  BASE_URL: ''
+  BASE_URL: '/spatialPython_hse26'
 
 permissions:
   contents: read
