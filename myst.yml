@@ -29,6 +29,12 @@ project:
       - file: notebooks/module_2/spData_3.ipynb
       - file: notebooks/module_2/spData_4.ipynb
 
+    - file: notebooks/module_3/projections_0.ipynb
+      children:
+      - file: notebooks/module_3/projections_1.ipynb
+      - file: notebooks/module_3/projections_2.ipynb
+      - file: notebooks/module_3/projections_3.ipynb
+
     
 site:
   template: book-theme
