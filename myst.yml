@@ -35,6 +35,9 @@ project:
       - file: notebooks/module_3/projections_2.ipynb
       - file: notebooks/module_3/projections_3.ipynb
 
+    - title: Проекты
+      children:
+      - file: notebooks/projects/project_1.ipynb
     
 site:
   template: book-theme
