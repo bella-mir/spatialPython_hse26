@@ -35,6 +35,11 @@ project:
       - file: notebooks/module_3/projections_2.ipynb
       - file: notebooks/module_3/projections_3.ipynb
 
+    - file: notebooks/module_4/visualizations_0.ipynb
+      children:
+      - file: notebooks/module_4/visualizations_1.ipynb
+      - file: notebooks/module_4/visualizations_2.ipynb
+
     - title: Проекты
       children:
       - file: notebooks/projects/project_1.ipynb
