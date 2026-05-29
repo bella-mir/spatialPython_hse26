@@ -16,3 +16,4 @@ requests==2.32.5
 networkx==3.6.1
 polyline==2.0.4
 rasterstats==0.20.0
+contextily==1.7.0
