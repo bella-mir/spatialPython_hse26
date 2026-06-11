@@ -47,6 +47,7 @@ project:
       - file: notebooks/module_5/geoprocessing_3.ipynb
       - file: notebooks/module_5/geoprocessing_4.ipynb
       - file: notebooks/module_5/geoprocessing_5.ipynb
+      - file: notebooks/module_5/geoprocessing_6.ipynb
 
     - title: Проекты
       children:
