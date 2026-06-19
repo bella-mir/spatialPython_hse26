@@ -49,6 +49,13 @@ project:
       - file: notebooks/module_5/geoprocessing_5.ipynb
       - file: notebooks/module_5/geoprocessing_6.ipynb
 
+    - file: notebooks/module_6/networkAnalysis_0.ipynb
+      children:
+      - file: notebooks/module_6/networkAnalysis_1.ipynb
+      - file: notebooks/module_6/networkAnalysis_2.ipynb
+      - file: notebooks/module_6/networkAnalysis_3.ipynb
+
+
     - title: Проекты
       children:
       - file: notebooks/projects/project_1.ipynb
