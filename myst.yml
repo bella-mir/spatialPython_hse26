@@ -55,11 +55,16 @@ project:
       - file: notebooks/module_6/networkAnalysis_2.ipynb
       - file: notebooks/module_6/networkAnalysis_3.ipynb
 
+    - file: notebooks/module_7/map_0.ipynb
+      children:
+      - file: notebooks/module_7/map_1.ipynb
+      - file: notebooks/module_7/map_2.ipynb
 
     - title: Проекты
       children:
       - file: notebooks/projects/project_1.ipynb
       - file: notebooks/projects/project_2.ipynb
+      - file: notebooks/projects/project_3.ipynb
     
 site:
   template: book-theme
