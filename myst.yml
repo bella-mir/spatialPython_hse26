@@ -60,11 +60,17 @@ project:
       - file: notebooks/module_7/map_1.ipynb
       - file: notebooks/module_7/map_2.ipynb
 
+    - file: notebooks/add/add_0.ipynb
+      children:
+      - file: notebooks/add/add_1.ipynb
+
     - title: Проекты
       children:
       - file: notebooks/projects/project_1.ipynb
       - file: notebooks/projects/project_2.ipynb
       - file: notebooks/projects/project_3.ipynb
+
+
     
 site:
   template: book-theme

@@ -23,3 +23,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Project 3 example (local only)
+notebooks/projects/project_3_example/
