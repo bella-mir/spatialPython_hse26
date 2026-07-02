@@ -46,6 +46,22 @@ jobs:
       - name: Install MyST
         run: npm install -g mystmd
 
+      - name: Restore MyST execution cache
+        uses: actions/cache@v4
+        with:
+          path: _build
+          key: myst-build-${{ github.sha }}
+          restore-keys: |
+            myst-build-
+
+      - name: Restore osmnx / Overpass response cache
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: osmnx-cache-${{ github.sha }}
+          restore-keys: |
+            osmnx-cache-
+
       - name: Build HTML Assets
         run: uv run myst build --html --execute
 
