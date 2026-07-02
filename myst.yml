@@ -63,6 +63,9 @@ project:
     - file: notebooks/add/add_0.ipynb
       children:
       - file: notebooks/add/add_1.ipynb
+      - file: notebooks/add/add_2.ipynb
+      - file: notebooks/add/add_3.ipynb
+      - file: notebooks/add/add_4.ipynb
 
     - title: Проекты
       children:
